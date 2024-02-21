@@ -1,0 +1,1 @@
+projeto para estudo de CI/CD com GitLab
